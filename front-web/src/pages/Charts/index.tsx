@@ -22,7 +22,7 @@ const initialPieData = {
     series: []
 }
 
-const BASE_URL = 'http://sds1-felrespin.herokuapp.com';
+const BASE_URL = 'https://sds1-felrespin.herokuapp.com';
 
 const Charts = () => {
 
